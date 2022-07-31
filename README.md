@@ -1,5 +1,5 @@
 # RecyclerViewInEditMode
-Android Studio is a great tool for creating mobile applications, but some simple things don't work in it. One of the most important functionals is to see the result. This example shows how to bypass view restrictions of RecyclerView in editor (InEditMode).
+Android Studio is a great tool for creating mobile applications, but some simple things don't work in it. One of the most important features is to see the result. This example shows how to bypass view restrictions of RecyclerView in editor (InEditMode).
 
 Multiple layouts in AS editor mode (tools:listItem)
 =======
